@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
 
   spec.description  = "Xebo Survey Collector Sdk"
 
-  spec.homepage     = "https://github.com/Survey2Connect/mobile-sdk.git"
+  spec.homepage     = "https://github.com/Survey2Connect/Xebo-mobile-sdk.git"
 
   spec.license      = { :type => 'NONE' }
 
